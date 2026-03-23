@@ -11,7 +11,7 @@
 
 ### ⚡ Physics · Engineering · Code · Innovation ⚡
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Engineering+Physics+%40+IIT+Mandi;Builder+of+Hardware+%26+Software;Laser+%7C+Robotics+%7C+AI+%7C+Physics;JEE+Advanced+%7C+WBJEE+%7C+NSEA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Engineering+Physics+%40+IIT+Mandi;Builder+of+Hardware+%26+Software;Laser+%7C+Robotics+%7C+AI+%7C+Physics)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/RemanDey?style=for-the-badge&color=00f7ff&labelColor=0d0d0d&logo=github)](https://github.com/RemanDey)
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-ff6b6b?style=for-the-badge&labelColor=0d0d0d)](https://remandey.github.io/my-portfolio)
