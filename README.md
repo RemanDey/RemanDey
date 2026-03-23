@@ -70,7 +70,6 @@ I'm **Reman Dey**, an **Engineering Physics** student at **IIT Mandi**, obsessed
 | 🤖 **Dodo & Luna** | Python-powered Telegram bots with smart conversational AI | Python · NLP · Telegram API |
 | 💬 [**DodoTalks**](https://remandey.github.io/DodoTalks/) | Sleek AI chat app powered by Google Gemini with a dodo mascot | Web · Gemini API |
 | ✍️ [**ASCII Art**](https://remandey.github.io/ascii) | Precision ASCII art generator with spacing-perfect output | JavaScript |
-| 🚁 **Quadcopter** | Fully engineered and built quadcopter from scratch | Embedded · Control Systems |
 | ☁️ **Hovercraft** | Functioning hovercraft built from mechanical principles | Mechanical Engineering |
 | ⚡ **Tesla Turbine** | Bladeless turbine using viscosity & boundary layer effects | Physics · Mechanical Eng. |
 | 🔦 **Laser Transceiver** | Laser-based transmitter and receiver system | Electronics · Optics |
