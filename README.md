@@ -29,7 +29,6 @@
 I'm **Reman Dey**, an **Engineering Physics** student at **IIT Mandi**, obsessed with the intersection of **theoretical physics**, **hands-on engineering**, and **creative software development**. From launching hovercrafts to deploying AI chatbots — I turn complex ideas into real, working things.
 
 - 🎓 **B.Tech in Engineering Physics** — IIT Mandi
-- 🏆 **JEE Advanced AIR-10055 · JEE Mains AIR-5174 · WBJEE AIR-34 · NSEA (twice)**
 - 🔭 Passionate about **Laser Physics, Robotics, AI & Embedded Systems**
 - 🌱 Always learning · Always building · Always pushing limits
 
