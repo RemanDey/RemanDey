@@ -40,7 +40,7 @@ quote:      "I don't just study the universe — I build things inspired by it."
 
 ---
 
-## `⚡ Tech Arsenal`
+## ` Tech Arsenal`
 
 <div align="center">
 
@@ -73,13 +73,13 @@ quote:      "I don't just study the universe — I build things inspired by it."
 
 ---
 
-## `🔥 Featured Projects`
+## ` Featured Projects`
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤝 [FriendForge](https://remandey.github.io/FriendForge/)
+###  [FriendForge](https://remandey.github.io/FriendForge/)
 > Private web app to track and cherish your connections
 
 ![HTML](https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=00f7ff)
@@ -89,7 +89,7 @@ quote:      "I don't just study the universe — I build things inspired by it."
 </td>
 <td width="50%">
 
-### 🤖 Dodo & Luna
+###  Dodo & Luna
 > Python-powered Telegram bots with smart conversational AI
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00f7ff)
@@ -101,7 +101,7 @@ quote:      "I don't just study the universe — I build things inspired by it."
 <tr>
 <td width="50%">
 
-### 💬 [DodoTalks](https://remandey.github.io/DodoTalks/)
+###  [DodoTalks](https://remandey.github.io/DodoTalks/)
 > Sleek AI chat app powered by Google Gemini with a dodo mascot
 
 ![Web](https://img.shields.io/badge/Web-0d1117?style=flat-square&logo=html5&logoColor=00f7ff)
@@ -110,7 +110,7 @@ quote:      "I don't just study the universe — I build things inspired by it."
 </td>
 <td width="50%">
 
-### ✍️ [ASCII Art Generator](https://remandey.github.io/ascii)
+###  [ASCII Art Generator](https://remandey.github.io/ascii)
 > Precision ASCII art generator with spacing-perfect output
 
 ![JS](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00f7ff)
@@ -120,7 +120,7 @@ quote:      "I don't just study the universe — I build things inspired by it."
 <tr>
 <td width="50%">
 
-### ☁️ Hovercraft
+###  Hovercraft
 > Functioning hovercraft built from first principles of fluid dynamics
 
 ![Physics](https://img.shields.io/badge/Physics-0d1117?style=flat-square&logoColor=00f7ff)
@@ -129,7 +129,7 @@ quote:      "I don't just study the universe — I build things inspired by it."
 </td>
 <td width="50%">
 
-### 🔦 Laser Transceiver
+###  Laser Transceiver
 > Laser-based transmitter & receiver bridging optics and electronics
 
 ![Electronics](https://img.shields.io/badge/Electronics-0d1117?style=flat-square&logo=electron&logoColor=00f7ff)
@@ -140,7 +140,7 @@ quote:      "I don't just study the universe — I build things inspired by it."
 <tr>
 <td colspan="2">
 
-### ⚡ Tesla Turbine
+###  Tesla Turbine
 > Bladeless turbine using viscosity & boundary layer effects — pure physics in motion
 
 ![Physics](https://img.shields.io/badge/Physics-0d1117?style=flat-square&logoColor=00f7ff)
@@ -167,7 +167,7 @@ quote:      "I don't just study the universe — I build things inspired by it."
 
 ---
 
-## `🌌 Open To`
+## ` Open To`
 
 ```
 ◈  Advanced Physics Research & Experimental Design     → laser labs, instrumentation
