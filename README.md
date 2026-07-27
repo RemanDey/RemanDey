@@ -193,6 +193,30 @@ quote:      "I don't just study the universe — I build things inspired by it."
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=RemanDey&theme=radical&hide_border=true&background=0d1117&ring=00f7ff&fire=a78bfa&currStreakLabel=00f7ff&sideLabels=ffffff&dates=888888)](https://git.io/streak-stats)
 
+<br/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RemanDey&theme=react-dark&bg_color=0d1117&color=00f7ff&line=a78bfa&point=ffffff&area=true&hide_border=true)
+
+</div>
+
+---
+
+## `🏆 Trophies`
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=RemanDey&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6)
+
+</div>
+
+---
+
+## `🐍 Contribution Snake`
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/RemanDey/RemanDey/output/github-contribution-grid-snake.svg)
+
 </div>
 
 ---
