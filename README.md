@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═════╝ ╚══════╝   ╚═╝  
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Engineering+Physics+%40+IIT+Mandi;Builder+of+Hardware+%26+Software;Laser+%7C+Robotics+%7C+AI+%7C+Physics;The+universe+is+my+playground." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Engineering+Physics+%40+IIT+Mandi;Software+Team+Member%2C+Team+Deimos+Mars+Rover;Robotics+%7C+AI+%7C+Embedded+Systems+%7C+Physics;The+universe+is+my+playground." alt="Typing SVG" />
 
 <br/>
 
@@ -33,7 +33,8 @@
 name:       Reman Dey
 role:       Engineering Physics Student
 institute:  IIT Mandi
-interests:  [Laser Physics, Robotics, AI, Embedded Systems, Optics]
+current:    Software Team Member @ Team Deimos (IIT Mandi Mars Rover Team)
+interests:  [Robotics, AI/ML, Laser Physics, Embedded Systems, Optics]
 status:     Always learning · Always building · Always pushing limits
 quote:      "I don't just study the universe — I build things inspired by it."
 ```
@@ -44,30 +45,38 @@ quote:      "I don't just study the universe — I build things inspired by it."
 
 <div align="center">
 
-**`// Languages`**
+**`// Languages & Frameworks`**
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00f7ff)
 ![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=a78bfa)
 ![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=f472b6)
+![ROS2](https://img.shields.io/badge/ROS2_Humble-0d1117?style=for-the-badge&logo=ros&logoColor=00f7ff)
+![Nav2](https://img.shields.io/badge/Nav2-0d1117?style=for-the-badge&logoColor=a78bfa)
+![PX4](https://img.shields.io/badge/PX4-0d1117?style=for-the-badge&logoColor=f472b6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=fb923c)
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=00f7ff)
 ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=a78bfa)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00f7ff)
 
 **`// Hardware & Embedded`**
 
+![STM](https://img.shields.io/badge/STM-0d1117?style=for-the-badge&logoColor=00f7ff)
+![ESP32](https://img.shields.io/badge/ESP32-0d1117?style=for-the-badge&logoColor=f472b6)
+![ESP8266](https://img.shields.io/badge/ESP8266-0d1117?style=for-the-badge&logoColor=a78bfa)
 ![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=for-the-badge&logo=arduino&logoColor=00f7ff)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0d1117?style=for-the-badge&logo=raspberrypi&logoColor=f472b6)
 ![Robotics](https://img.shields.io/badge/Robotics-0d1117?style=for-the-badge&logo=probot&logoColor=fb923c)
-![Electronics](https://img.shields.io/badge/Electronics-0d1117?style=for-the-badge&logo=electron&logoColor=a78bfa)
+![PCB](https://img.shields.io/badge/PCB_Prototyping-0d1117?style=for-the-badge&logo=electron&logoColor=a78bfa)
 
 **`// AI & Software`**
 
 ![AI/ML](https://img.shields.io/badge/AI%2FML-0d1117?style=for-the-badge&logo=tensorflow&logoColor=00f7ff)
 ![NLP](https://img.shields.io/badge/NLP-0d1117?style=for-the-badge&logo=openai&logoColor=a78bfa)
+![RAG](https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logoColor=fb923c)
 ![Gemini API](https://img.shields.io/badge/Gemini_API-0d1117?style=for-the-badge&logo=google&logoColor=f472b6)
-![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-0d1117?style=for-the-badge&logo=telegram&logoColor=00f7ff)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=fb923c)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00f7ff)
 
 </div>
 
@@ -77,43 +86,54 @@ quote:      "I don't just study the universe — I build things inspired by it."
 
 <table>
 <tr>
-<td width="50%">
+<td colspan="2">
 
-###  [FriendForge](https://remandey.github.io/FriendForge/)
-> Private web app to track and cherish your connections
+###  [Team Deimos — IIT Mandi Mars Rover](https://github.com/Team-Deimos-IIT-Mandi/rovercore)
+> Software Team Member. Wrote the fuel-trail-following path planner (polynomial fitting), autonomous hill-peak detection (0.5m positional accuracy), a basalt-rock classifier (76% accuracy), and a custom Artificial Potential Fields path planner built after Nav2 proved infeasible on the rover's onboard compute.
 
-![HTML](https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=00f7ff)
-![CSS](https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=a78bfa)
-![JS](https://img.shields.io/badge/JS-0d1117?style=flat-square&logo=javascript&logoColor=fb923c)
-
-</td>
-<td width="50%">
-
-###  Dodo & Luna
-> Python-powered Telegram bots with smart conversational AI
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00f7ff)
-![NLP](https://img.shields.io/badge/NLP-0d1117?style=flat-square&logo=openai&logoColor=a78bfa)
-![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=flat-square&logo=telegram&logoColor=f472b6)
+![ROS2](https://img.shields.io/badge/ROS2-0d1117?style=flat-square&logo=ros&logoColor=00f7ff)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=a78bfa)
+![ML](https://img.shields.io/badge/Machine_Learning-0d1117?style=flat-square&logoColor=f472b6)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-###  [DodoTalks](https://remandey.github.io/DodoTalks/)
-> Sleek AI chat app powered by Google Gemini with a dodo mascot
+###  [JoSAA Counselling RAG Chatbot](https://github.com/RemanDey/chatbot-josaa-iitmandi)
+> RAG chatbot answering student queries on IIT Mandi's JoSAA counselling process, grounded in official documentation. [Live demo →](https://chatbot-josaa-iitmandi-mirror.onrender.com/)
 
-![Web](https://img.shields.io/badge/Web-0d1117?style=flat-square&logo=html5&logoColor=00f7ff)
-![Gemini](https://img.shields.io/badge/Gemini_API-0d1117?style=flat-square&logo=google&logoColor=a78bfa)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00f7ff)
+![RAG](https://img.shields.io/badge/RAG-0d1117?style=flat-square&logoColor=a78bfa)
+![LLM](https://img.shields.io/badge/LLM-0d1117?style=flat-square&logoColor=f472b6)
 
 </td>
 <td width="50%">
 
-###  [ASCII Art Generator](https://remandey.github.io/ascii)
-> Precision ASCII art generator with spacing-perfect output
+###  [PDF Question Generator](https://github.com/RemanDey/pdf-question-generator)
+> LLM-powered tool that extracts content from PDFs and synthesizes practice questions to streamline exam prep.
 
-![JS](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00f7ff)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00f7ff)
+![LLM](https://img.shields.io/badge/LLM-0d1117?style=flat-square&logoColor=a78bfa)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+###  [Open-Source Micro-Rover](https://github.com/RemanDey/micro-rover)
+> Low-cost, open-source micro-rover combining embedded control and mechanical design for students and hobbyists to build on.
+
+![Embedded](https://img.shields.io/badge/Embedded_Systems-0d1117?style=flat-square&logoColor=00f7ff)
+
+</td>
+<td width="50%">
+
+###  [DodoTalks](https://remandey.github.io/DodoTalks/)
+> AI chat app powered by Google Gemini with a custom conversational interface.
+
+![Web](https://img.shields.io/badge/Web-0d1117?style=flat-square&logo=html5&logoColor=00f7ff)
+![Gemini](https://img.shields.io/badge/Gemini_API-0d1117?style=flat-square&logo=google&logoColor=a78bfa)
 
 </td>
 </tr>
@@ -121,7 +141,7 @@ quote:      "I don't just study the universe — I build things inspired by it."
 <td width="50%">
 
 ###  Hovercraft
-> Functioning hovercraft built from first principles of fluid dynamics
+> Functioning hovercraft built from first principles of fluid dynamics.
 
 ![Physics](https://img.shields.io/badge/Physics-0d1117?style=flat-square&logoColor=00f7ff)
 ![MechEng](https://img.shields.io/badge/Mechanical_Eng.-0d1117?style=flat-square&logoColor=a78bfa)
@@ -130,7 +150,7 @@ quote:      "I don't just study the universe — I build things inspired by it."
 <td width="50%">
 
 ###  Laser Transceiver
-> Laser-based transmitter & receiver bridging optics and electronics
+> Laser-based transmitter & receiver bridging optics and electronics.
 
 ![Electronics](https://img.shields.io/badge/Electronics-0d1117?style=flat-square&logo=electron&logoColor=00f7ff)
 ![Optics](https://img.shields.io/badge/Optics-0d1117?style=flat-square&logoColor=f472b6)
@@ -141,7 +161,7 @@ quote:      "I don't just study the universe — I build things inspired by it."
 <td colspan="2">
 
 ###  Tesla Turbine
-> Bladeless turbine using viscosity & boundary layer effects — pure physics in motion
+> Bladeless turbine using viscosity & boundary layer effects — pure physics in motion.
 
 ![Physics](https://img.shields.io/badge/Physics-0d1117?style=flat-square&logoColor=00f7ff)
 ![MechEng](https://img.shields.io/badge/Mechanical_Eng.-0d1117?style=flat-square&logoColor=a78bfa)
@@ -149,6 +169,16 @@ quote:      "I don't just study the universe — I build things inspired by it."
 </td>
 </tr>
 </table>
+
+---
+
+## ` Achievements`
+
+```
+◈  2nd place — Zentej Hackathon (AI/ML track: AI-generated face detection)
+◈  14th rank — IIT Bombay Techfest theoretical submission on Aircraft Details (200 selected candidates)
+◈  Dice score 0.69 — Solar Flare Filament Segmentation (Kaggle)
+```
 
 ---
 
@@ -172,7 +202,7 @@ quote:      "I don't just study the universe — I build things inspired by it."
 ```
 ◈  Advanced Physics Research & Experimental Design     → laser labs, instrumentation
 ◈  Robotics & Intelligent Automation                  → embedded + cognitive systems  
-◈  Software & AI Development                          → NLP, bots, real-world AI apps
+◈  Software & AI Development                          → NLP, RAG, real-world AI apps
 ◈  Hardware Prototyping & Embedded Systems            → from PCB to physics-machines
 ```
 
