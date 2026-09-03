@@ -29,14 +29,19 @@
 
 </div>
 
-```yaml
-name:       Reman Dey
-role:       Engineering Physics Student
-institute:  IIT Mandi
-current:    Software Team Member @ Team Deimos (IIT Mandi Mars Rover Team)
-interests:  [Robotics, AI/ML, Laser Physics, Embedded Systems, Optics]
-status:     Always learning · Always building · Always pushing limits
-quote:      "I don't just study the universe — I build things inspired by it."
+```rust
+┌─[ SYSTEM BOOT ]─────────────────────────────────────────────────┐
+│                                                                 │
+│  USER       : Reman Dey                                         │
+│  SYSTEM     : Engineering Physics @ IIT Mandi                   │
+│  UNIT       : Team Deimos — Mars Rover                          │
+│  STATUS     : ONLINE                                            │
+│  MODE       : BUILD / EXPERIMENT / DEBUG                        |
+|                                                                 │
+│      while(alive): build(); debug(); deploy(); repeat();        │
+│  [████████████████████████████████████████] 100% OPERATIONAL    │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -182,36 +187,23 @@ quote:      "I don't just study the universe — I build things inspired by it."
 
 ---
 
-## `📊 GitHub Stats`
+## ` GitHub Stats`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RemanDey&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=a78bfa&text_color=ffffff&ring_color=00f7ff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RemanDey&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=ffffff" />
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RemanDey&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=a78bfa&text_color=ffffff&ring_color=00f7ff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RemanDey&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=ffffff" /> -->
 
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=RemanDey&theme=radical&hide_border=true&background=0d1117&ring=00f7ff&fire=a78bfa&currStreakLabel=00f7ff&sideLabels=ffffff&dates=888888)](https://git.io/streak-stats)
 
 <br/>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RemanDey&theme=react-dark&bg_color=0d1117&color=00f7ff&line=a78bfa&point=ffffff&area=true&hide_border=true)
-
 </div>
 
 ---
 
-## `🏆 Trophies`
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=RemanDey&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6)
-
-</div>
-
----
-
-## `🐍 Contribution Snake`
+## ` Contribution Snake`
 
 <div align="center">
 
